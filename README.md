@@ -29,3 +29,12 @@ Encrypted: b'4f4d12689cec2d0477 .........'
 Decrypted: hii thushan
 
 ```
+
+# Cryptography Lib
+
+```
+python crypto.py
+Enter text: hii
+Encrypted message: b"\x8c\xd6+s\xcaX\x98\x .....99L%Z\xed\x05"
+Decrypted message: hii
+```
